@@ -1,5 +1,17 @@
 # CODTECH-TASK-4-RECOMMENDATION-SYSTEM
 
+COMPANY : CODTECH IT SOLUTION
+
+NAME : SHAIK MUNWAR BASHA
+
+INTERN ID : CT06DM431
+
+DOMAIN : Machine Learning
+
+MENTOR : Neela Santosh
+
+DURATION : 6 weeks
+
 
 Building a Movie Recommendation System Using Collaborative Filtering
 
