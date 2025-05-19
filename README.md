@@ -48,6 +48,7 @@ A Gradio UI (gr.Interface) allows users to input a movie name and receive recomm
 
 
 Output
+![Image](https://github.com/user-attachments/assets/f8fd2fe0-e9d4-4b9a-baae-0b8d0a5d389d)
 
 These are movies similar to "Avatar" based on user rating patterns, with distances indicating similarity (e.g., "Up" is the most similar with a distance of 0.289607).<br/>
 
