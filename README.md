@@ -62,6 +62,5 @@ A Gradio UI (gr.Interface) allows users to input a movie name and receive recomm
 Output
 ![Image](https://github.com/user-attachments/assets/f8fd2fe0-e9d4-4b9a-baae-0b8d0a5d389d)
 
-These are movies similar to "Avatar" based on user rating patterns, with distances indicating similarity (e.g., "Up" is the most similar with a distance of 0.289607).<br/>
+These are movies similar to "Avatar" based on user rating patterns, with distances indicating similarity (e.g., "Up" is the most similar with a distance of 0.398180).<br/>
 
-Collaborative filtering doesn’t require movie metadata (e.g., genres), relying solely on user ratings. This makes it effective for capturing user preferences but can suffer from the cold-start problem (new users/movies with no ratings). Matrix factorization could enhance this by learning latent factors, potentially improving recommendations. The Gradio interface makes the system user-friendly, allowing interactive movie recommendations.How can Grok help?
